@@ -3,4 +3,4 @@
 - Estou estudando na Alura
 - Estou desenvolvendo a linguagem Javascript
 
-(https://media.tenor.com/zVvViQKqa0MAAAAj/psybirdb1oom.gif)
+![](https://media.tenor.com/zVvViQKqa0MAAAAj/psybirdb1oom.gif)
